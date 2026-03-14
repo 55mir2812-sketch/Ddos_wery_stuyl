@@ -8,7 +8,7 @@ pkg update -y && pkg upgrade -y
 pkg install python git -y
 
 # 3. Скачать этот репозиторий
-git clone https://github.com/55mir2812-sketch/god-ddos.git
+в разработке 
 
 # 4. Зайти в папку
 cd god-ddos
